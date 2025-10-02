@@ -18,14 +18,4 @@ An interactive web application built with **Next.js 13**, **TypeScript**, and **
 - 🛡️ SOS & safety features  
 - 🎨 Fully responsive UI with modern components  
 
----
 
-## ⚡ Getting Started  
-
-### 🔧 Installation  
-Clone the repo and install dependencies:  
-
-```bash
-git clone https://github.com/Agnihotri2096/SLSH.git
-cd SLSH
-pnpm install
